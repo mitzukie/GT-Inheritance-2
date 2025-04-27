@@ -1,4 +1,4 @@
-//GT Inheritance 3
+//GT Inheritance 2
 #include <iostream>
 #include <string>
 
